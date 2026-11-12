@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="336" viewBox="0 0 840 336" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15">
+<rect x="0.5" y="0.5" width="839" height="335" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 10.5 a10 10 0 0 1 10 -10 H829.5 a10 10 0 0 1 10 10 V36 H0.5 Z" fill="#161b22"/>
+<line x1="0.5" y1="36" x2="839.5" y2="36" stroke="#30363d"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="18" r="6" fill="#27c93f"/>
+<text x="420.0" y="23" fill="#8b949e" font-size="13" text-anchor="middle">likhit@github: ~</text>
+<defs><clipPath id="c0"><rect x="45.06" y="56" height="22" width="0"><animate attributeName="width" values="0.0;9.0;18.1;27.1;36.1;45.1;54.2;63.2" calcMode="discrete" begin="0.95s" dur="0.49s" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="45.06" y="108" height="22" width="0"><animate attributeName="width" values="0.0;9.0;18.1;27.1;36.1;45.1;54.2;63.2;72.2;81.3;90.3;99.3;108.4;117.4;126.4;135.4;144.5;153.5;162.5;171.6;180.6;189.6;198.7;207.7;216.7" calcMode="discrete" begin="2.89s" dur="1.68s" fill="freeze"/></rect></clipPath><clipPath id="c5"><rect x="45.06" y="186" height="22" width="0"><animate attributeName="width" values="0.0;9.0;18.1;27.1;36.1;45.1;54.2;63.2;72.2;81.3;90.3;99.3;108.4;117.4;126.4" calcMode="discrete" begin="6.32s" dur="0.98s" fill="freeze"/></rect></clipPath><clipPath id="c7"><rect x="45.06" y="238" height="22" width="0"><animate attributeName="width" values="0.0;9.0;18.1;27.1;36.1;45.1;54.2;63.2;72.2;81.3;90.3;99.3;108.4;117.4;126.4;135.4;144.5" calcMode="discrete" begin="8.75s" dur="1.12s" fill="freeze"/></rect></clipPath></defs>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.60s" fill="freeze"/><text x="28" y="72" fill="#3fb950">$</text></g>
+<text x="46.06" y="72" fill="#e6edf3" clip-path="url(#c0)">whoami</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.74s" fill="freeze"/><text x="28" y="98" xml:space="preserve"><tspan fill="#e6edf3">likhit kanthathong</tspan><tspan fill="#8b949e">  ·  Go backend &amp; AI agent builder  ·  Bangkok</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="2.54s" fill="freeze"/><text x="28" y="124" fill="#3fb950">$</text></g>
+<text x="46.06" y="124" fill="#e6edf3" clip-path="url(#c2)">ls ~/currently-building</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="4.87s" fill="freeze"/><text x="28" y="150" xml:space="preserve"><tspan fill="#e3b341">[1] </tspan><tspan fill="#58a6ff">iqplus-fun/          </tspan><tspan fill="#8b949e">side project · multi-tenant tutoring school platform</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="5.17s" fill="freeze"/><text x="28" y="176" xml:space="preserve"><tspan fill="#e3b341">[2] </tspan><tspan fill="#58a6ff">ai-software-factory/ </tspan><tspan fill="#8b949e">at work · AI agents: spec → code → test → deploy</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="5.97s" fill="freeze"/><text x="28" y="202" fill="#3fb950">$</text></g>
+<text x="46.06" y="202" fill="#e6edf3" clip-path="url(#c5)">cat stack.txt</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="7.60s" fill="freeze"/><text x="28" y="228" xml:space="preserve"><tspan fill="#d2a8ff">Go · PostgreSQL · SvelteKit · AstroJS · K8s · ArgoCD · Datadog</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="8.40s" fill="freeze"/><text x="28" y="254" fill="#3fb950">$</text></g>
+<text x="46.06" y="254" fill="#e6edf3" clip-path="url(#c7)">go run ./say-hi</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="10.17s" fill="freeze"/><text x="28" y="280" xml:space="preserve"><tspan fill="#3fb950">Hello, visitor! Let's build something together.</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="10.47s" fill="freeze"/><text x="28" y="306" fill="#3fb950">$</text><rect x="46.06" y="293" width="9.03" height="17" fill="#e6edf3"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</svg>
